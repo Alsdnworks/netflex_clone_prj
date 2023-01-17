@@ -1,8 +1,8 @@
 {
-  "name": "dqflex",
+  "name": "netflex_clone_prj",
   "version": "1.0.0",
   "private": true,
-  "homepage": "YOUR-GITHUB-PAGES-URL",
+  "homepage": "https://alsdnworks.github.io/netflex_clone_prj",
   "dependencies": {
     "@material-ui/core": "^4.11.0",
     "@material-ui/icons": "^4.9.1",
