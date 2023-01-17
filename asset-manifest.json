@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/netflex_clone_prj/static/css/main.878e8789.chunk.css",
-    "main.js": "/netflex_clone_prj/static/js/main.64059814.chunk.js",
-    "main.js.map": "/netflex_clone_prj/static/js/main.64059814.chunk.js.map",
+    "main.js": "/netflex_clone_prj/static/js/main.76ac8552.chunk.js",
+    "main.js.map": "/netflex_clone_prj/static/js/main.76ac8552.chunk.js.map",
     "runtime-main.js": "/netflex_clone_prj/static/js/runtime-main.62a4bd02.js",
     "runtime-main.js.map": "/netflex_clone_prj/static/js/runtime-main.62a4bd02.js.map",
     "static/js/2.5e6a1252.chunk.js": "/netflex_clone_prj/static/js/2.5e6a1252.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.62a4bd02.js",
     "static/js/2.5e6a1252.chunk.js",
     "static/css/main.878e8789.chunk.css",
-    "static/js/main.64059814.chunk.js"
+    "static/js/main.76ac8552.chunk.js"
   ]
 }
